@@ -1,6 +1,5 @@
 <template>
   <Curren></Curren>
-
 </template>
 
 <script>
